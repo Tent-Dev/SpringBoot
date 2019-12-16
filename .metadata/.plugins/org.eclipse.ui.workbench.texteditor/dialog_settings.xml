@@ -8,6 +8,8 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="&quot;badge"/>
+			<item value="@RequestMapping(value = &quot;edit/{task_id}/{status}&quot;, method = RequestMethod.GET)"/>
 			<item value="&lt;span class=&quot;badge&quot; th:text=&quot;${projectRemainingTaskMap.get(project.id)} + &apos;/&apos; + ${project.taskList.size()}&quot;&gt;1/2&lt;/span&gt;"/>
 		</list>
 		<list key="replacehistory">
