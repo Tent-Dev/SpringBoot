@@ -1,0 +1,5 @@
+package com.arms.domain.entity;
+
+public class Project {
+
+}
